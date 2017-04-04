@@ -8,7 +8,8 @@ import java.util.Random;
 
 /**
  *
- * @author Victoria Borras
+ * @author	Victoria Borras
+ * @coauthor	Samy Mahmod
  */
 public class Horamilitar {
 
